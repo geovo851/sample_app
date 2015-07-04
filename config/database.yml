@@ -19,7 +19,7 @@ development:
 # Do not set this db to the same as development or production.
 test:
   adapter: postgresql
-  database: rails_tutorial
+  database: rails_tutoriual_test
   pool: 5
   timeout: 5000
   encoding: unicode
